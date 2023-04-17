@@ -1,5 +1,5 @@
 # libft
-learning proyect - 42 Málaga
+Learning proyect - 42 Málaga
 # Description
 My first proyect as student in 42, a library with some functions of standard library C:
 
