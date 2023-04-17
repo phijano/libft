@@ -1,6 +1,6 @@
 # libft
 Learning proyect - 42 Málaga
-# Description
+## Description
 My first proyect as student in 42, a library with some functions of standard library C:
 
 * isalpha
